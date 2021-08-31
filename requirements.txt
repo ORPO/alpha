@@ -1,0 +1,6 @@
+lxml
+openpyxl
+peewee
+configparser
+psycopg2
+psutil
